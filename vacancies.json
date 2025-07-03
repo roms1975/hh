@@ -1,0 +1,810 @@
+[
+    {
+        "name": "Backend Developer (Node.js + PHP)",
+        "city": "Ростов-на-Дону",
+        "company": "Зорра",
+        "created": "2025-07-03 14:08:11",
+        "contacts": null,
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Системный администратор",
+        "city": "Москва",
+        "company": "Москабельмет",
+        "created": "2025-07-03 08:35:17",
+        "contacts": {
+            "name": "Прима Светлана Евгеньевна",
+            "email": "primase@mkm.ru",
+            "phones": [],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 185000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Системный администратор",
+        "city": "Москва",
+        "company": "САРГАСАП",
+        "created": "2025-07-03 13:12:53",
+        "contacts": {
+            "name": "Чертилина Татьяна",
+            "email": "t.chertilina@sargasap.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "930",
+                    "number": "3180157",
+                    "country": "7",
+                    "formatted": "+79303180157"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": null
+    },
+    {
+        "name": "Заместитель Директора ИТ",
+        "city": "Москва",
+        "company": "Финвал, Группа Компаний",
+        "created": "2025-07-03 09:54:31",
+        "contacts": {
+            "name": "Криволапова Софья Евгеньевна",
+            "email": "personal4@finval.ru",
+            "phones": [],
+            "call_tracking_enabled": true
+        },
+        "salary": null
+    },
+    {
+        "name": "Системный администратор",
+        "city": "Москва",
+        "company": "Амс Тимс",
+        "created": "2025-07-03 12:55:51",
+        "contacts": {
+            "name": "Юлия ",
+            "email": null,
+            "phones": [
+                {
+                    "comment": "tg @ynfrolova",
+                    "city": "958",
+                    "number": "4974168",
+                    "country": "7",
+                    "formatted": "+79584974168"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": null
+    },
+    {
+        "name": "Ведущий специалист отдела информационных технологий",
+        "city": "Москва",
+        "company": "Петровский и К",
+        "created": "2025-07-03 15:44:27",
+        "contacts": {
+            "name": "Филатов Владимир Александрович",
+            "email": "filatov@petrovskyik.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "989",
+                    "number": "6896432",
+                    "country": "7",
+                    "formatted": "+79896896432"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": null
+    },
+    {
+        "name": "Системный администратор",
+        "city": "Москва",
+        "company": "Инстанта Рус",
+        "created": "2025-07-03 16:38:45",
+        "contacts": {
+            "name": "Трифонова Людмила",
+            "email": "hr@instanta.su",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "936",
+                    "number": "1101288",
+                    "country": "7",
+                    "formatted": "+79361101288"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Руководитель отдела информационных технологий",
+        "city": "Москва",
+        "company": "НАО АМД",
+        "created": "2025-07-03 13:22:17",
+        "contacts": {
+            "name": "Немихина Светлана Викторовна",
+            "email": "nemihina@amdel.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "964",
+                    "number": "7263363",
+                    "country": "7",
+                    "formatted": "+79647263363"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 250000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Инженер Linux-систем",
+        "city": "Москва",
+        "company": "Ньюйол",
+        "created": "2025-07-03 12:40:24",
+        "contacts": {
+            "name": "Попова Кристина",
+            "email": "popova.ki@newyol.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "905",
+                    "number": "7201882",
+                    "country": "7",
+                    "formatted": "+79057201882"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 175000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Старший системный администратор",
+        "city": "Москва",
+        "company": "УМЦ Финконт Столица",
+        "created": "2025-07-03 09:57:04",
+        "contacts": {
+            "name": "Терехина Екатерина Валерьевна",
+            "email": "e.terekhina@finkont.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "994",
+                    "number": "4423833",
+                    "country": "7",
+                    "formatted": "+79944423833"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": null
+    },
+    {
+        "name": "Ведущий системный администратор",
+        "city": "Москва",
+        "company": "Л-Системс",
+        "created": "2025-07-03 08:58:47",
+        "contacts": {
+            "name": "Андриянова Наталья",
+            "email": "andrianova_n@lsyst.ru",
+            "phones": [
+                {
+                    "comment": "+7 (929) 5719193",
+                    "city": "919",
+                    "number": "1377961",
+                    "country": "7",
+                    "formatted": "+79191377961"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 180000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Системный администратор junior",
+        "city": "Саратов",
+        "company": "Опендэв",
+        "created": "2025-07-03 11:48:55",
+        "contacts": null,
+        "salary": {
+            "from": 40000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "VOIP-инженер (Asterisk, Kamailio)",
+        "city": "Новосибирск",
+        "company": "Авантелеком",
+        "created": "2025-07-03 07:32:54",
+        "contacts": null,
+        "salary": null
+    },
+    {
+        "name": "Руководитель IT отдела",
+        "city": "Москва",
+        "company": "ВОДОВОЗ.RU",
+        "created": "2025-07-03 11:44:51",
+        "contacts": {
+            "name": "Кузовлев Глеб",
+            "email": "kyza4800@mail.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "963",
+                    "number": "7176761",
+                    "country": "7",
+                    "formatted": "+79637176761"
+                },
+                {
+                    "comment": null,
+                    "city": "980",
+                    "number": "9581433",
+                    "country": "7",
+                    "formatted": "+79809581433"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Системный администратор",
+        "city": "Иваново (Ивановская область)",
+        "company": "Профи-Групп",
+        "created": "2025-07-03 13:28:50",
+        "contacts": {
+            "name": "Земсков Василий Евгеньевич",
+            "email": "vasiliy@profi-studio.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "905",
+                    "number": "1576461",
+                    "country": "7",
+                    "formatted": "+79051576461"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Руководитель IT отдела",
+        "city": "Москва",
+        "company": "ФЕЛИКС",
+        "created": "2025-07-03 15:18:33",
+        "contacts": {
+            "name": "Кретова Виктория Юрьевна",
+            "email": "yablokova.2023@internet.ru",
+            "phones": [],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 230000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Инженер технической поддержки",
+        "city": "Москва",
+        "company": "Флат-Про",
+        "created": "2025-07-03 16:25:37",
+        "contacts": null,
+        "salary": {
+            "from": 130000,
+            "to": 156000,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Ведущий системный администратор",
+        "city": "Москва",
+        "company": "Финвал, Группа Компаний",
+        "created": "2025-07-03 09:54:00",
+        "contacts": {
+            "name": "Криволапова Софья Евгеньевна",
+            "email": "personal4@finval.ru",
+            "phones": [],
+            "call_tracking_enabled": true
+        },
+        "salary": null
+    },
+    {
+        "name": "Специалист по телефонии",
+        "city": "Москва",
+        "company": "Целевые Финансы",
+        "created": "2025-07-03 17:42:59",
+        "contacts": {
+            "name": "Анна",
+            "email": "hr4@celfin.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "932",
+                    "number": "4421393",
+                    "country": "7",
+                    "formatted": "+79324421393"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Системный администратор Linux",
+        "city": "Москва",
+        "company": "Группа Компаний Нацпроектстрой",
+        "created": "2025-07-03 13:38:20",
+        "contacts": null,
+        "salary": null
+    },
+    {
+        "name": "Старший сетевой инженер в компанию интернет-провайдер",
+        "city": "Москва",
+        "company": "АЛЬТАГЕН",
+        "created": "2025-07-03 16:50:04",
+        "contacts": {
+            "name": "РР Екатерина",
+            "email": "rabota@ecotelecom.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "966",
+                    "number": "2648881",
+                    "country": "7",
+                    "formatted": "+79662648881"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 205000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Системный администратор",
+        "city": "Санкт-Петербург",
+        "company": "НТПЦ Решение",
+        "created": "2025-07-03 10:16:10",
+        "contacts": {
+            "name": "Смирнова Кристина Анатольевна",
+            "email": "ntpcr-hh@yandex.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "981",
+                    "number": "3382071",
+                    "country": "7",
+                    "formatted": "+79813382071"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Системный инженер (в офисе)",
+        "city": "Воронеж",
+        "company": "Терра Ассистанс",
+        "created": "2025-07-03 16:51:23",
+        "contacts": {
+            "name": "Мишукова Ирина",
+            "email": "hr@terra-assistance.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "960",
+                    "number": "1297807",
+                    "country": "7",
+                    "formatted": "+79601297807"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 135000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Сетевой инженер",
+        "city": "Москва",
+        "company": "Полицифра",
+        "created": "2025-07-03 11:51:33",
+        "contacts": null,
+        "salary": {
+            "from": null,
+            "to": 208000,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Главный сетевой администратор",
+        "city": "Алматы",
+        "company": "Академия гражданской авиации",
+        "created": "2025-07-03 08:35:06",
+        "contacts": null,
+        "salary": null
+    },
+    {
+        "name": "Системный администратор",
+        "city": "Ижевск",
+        "company": "Микроприбор",
+        "created": "2025-07-03 07:21:27",
+        "contacts": {
+            "name": "Верещагин Дмитрий",
+            "email": "vdl@micpb.ru",
+            "phones": [
+                {
+                    "comment": "(3412) 970497, доб. 123",
+                    "city": "963",
+                    "number": "0295524",
+                    "country": "7",
+                    "formatted": "+79630295524"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": null,
+            "to": 50,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Системный администратор (АФ Черская)",
+        "city": "Псков",
+        "company": "Терра Нова",
+        "created": "2025-07-03 13:56:43",
+        "contacts": null,
+        "salary": {
+            "from": 75000,
+            "to": 75000,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Инженер IP-телефонии",
+        "city": "Санкт-Петербург",
+        "company": "Петросвязь",
+        "created": "2025-07-03 11:41:12",
+        "contacts": {
+            "name": "Галимова Юлия Денисовна",
+            "email": "galimova@petrosvyaz.ru",
+            "phones": [],
+            "call_tracking_enabled": true
+        },
+        "salary": null
+    },
+    {
+        "name": "Системный администратор (инфраструктура), Москва в офис",
+        "city": "Москва",
+        "company": "СМ-Клиника",
+        "created": "2025-07-03 09:20:38",
+        "contacts": null,
+        "salary": null
+    },
+    {
+        "name": "Инженер по системному администрированию серверов и ПО программных АТС",
+        "city": "Санкт-Петербург",
+        "company": "Газпром телеком",
+        "created": "2025-07-03 10:51:24",
+        "contacts": null,
+        "salary": null
+    },
+    {
+        "name": "Старший системный администратор",
+        "city": "Санкт-Петербург",
+        "company": "УК Импульс",
+        "created": "2025-07-03 11:38:16",
+        "contacts": null,
+        "salary": {
+            "from": 140000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Инженер IP телефонии\/ВКС",
+        "city": "Москва",
+        "company": "ПРОДЖЕКТ САППОРТ",
+        "created": "2025-07-03 10:33:17",
+        "contacts": null,
+        "salary": null
+    },
+    {
+        "name": "Инженер технической поддержки\/сетевой инженер",
+        "city": "Пермь",
+        "company": "ЦИФРОВОЕ БУРЕНИЕ",
+        "created": "2025-07-03 09:35:59",
+        "contacts": {
+            "name": "Саркисян Лусине",
+            "email": "hr@digitaldrilling.ru",
+            "phones": []
+        },
+        "salary": {
+            "from": null,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Инженер технической поддержки склада",
+        "city": "Москва",
+        "company": "Датаюниверс",
+        "created": "2025-07-03 11:04:36",
+        "contacts": null,
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Младший системный администратор",
+        "city": "Новомосковск (Тульская область)",
+        "company": "Гранд А.В.",
+        "created": "2025-07-03 10:11:23",
+        "contacts": null,
+        "salary": {
+            "from": 60000,
+            "to": 72000,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Системный администратор",
+        "city": "Курганинск",
+        "company": "ТОКК, Завод упаковочных изделий",
+        "created": "2025-07-03 08:19:14",
+        "contacts": {
+            "name": "Чалых Наталья",
+            "email": "trekstar.krg@gmail.com",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "964",
+                    "number": "9258597",
+                    "country": "7",
+                    "formatted": "+79649258597"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Старший системный администратор",
+        "city": "Костанай",
+        "company": "Ломбард Деньги населению",
+        "created": "2025-07-03 13:28:54",
+        "contacts": {
+            "name": "Миронова Нигара Сабыржановна",
+            "email": "n.mironova@dengigroup.kz",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "771",
+                    "number": "2804652",
+                    "country": "7",
+                    "formatted": "+77712804652"
+                }
+            ]
+        },
+        "salary": null
+    },
+    {
+        "name": "Младший системный администратор",
+        "city": "Донской",
+        "company": "Гранд А.В.",
+        "created": "2025-07-03 10:11:18",
+        "contacts": null,
+        "salary": {
+            "from": 60000,
+            "to": 72000,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Главный специалист управления информационных технологий",
+        "city": "Самара",
+        "company": "Самарагорэнергосбыт",
+        "created": "2025-07-03 09:53:27",
+        "contacts": {
+            "name": "Комендантова Татьяна Павловна",
+            "email": "komendantovatp@samges.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "909",
+                    "number": "3421769",
+                    "country": "7",
+                    "formatted": "+79093421769"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 85196,
+            "to": 111123,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Инженер технической поддержки (B2B, B2O, B2G)",
+        "city": "Санкт-Петербург",
+        "company": "Оператор связи Комфортел",
+        "created": "2025-07-03 15:46:25",
+        "contacts": null,
+        "salary": {
+            "from": 50000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Администратор сети",
+        "city": "Алматы",
+        "company": "Страховая компания Халык, ДО Народного Банка Казахстана",
+        "created": "2025-07-03 16:15:49",
+        "contacts": null,
+        "salary": null
+    },
+    {
+        "name": "Главный специалист-эксперт (Отдел эксплуатации информационных систем, технических средств)",
+        "city": "Самара",
+        "company": "Управление Федеральной службы государственной регистрации, кадастра и картографии Самарской области",
+        "created": "2025-07-03 16:04:52",
+        "contacts": {
+            "name": "Самсоненко Александр",
+            "email": "samsonenko_federal@mail.ru",
+            "phones": [
+                {
+                    "comment": null,
+                    "city": "906",
+                    "number": "1251547",
+                    "country": "7",
+                    "formatted": "+79061251547"
+                }
+            ],
+            "call_tracking_enabled": true
+        },
+        "salary": {
+            "from": 60000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": true
+        }
+    },
+    {
+        "name": "Инженер технической поддержки склада",
+        "city": "Клин (Московская область)",
+        "company": "Датаюниверс",
+        "created": "2025-07-03 11:04:41",
+        "contacts": null,
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        }
+    },
+    {
+        "name": "Руководитель службы поддержки (первая линия, FinTech)",
+        "city": "Москва",
+        "company": "Рт-Пэй",
+        "created": "2025-07-03 10:38:54",
+        "contacts": null,
+        "salary": null
+    },
+    {
+        "name": "Инженер технической поддержки",
+        "city": "Москва",
+        "company": "Ювелирная сеть Залог Успеха",
+        "created": "2025-07-03 10:30:39",
+        "contacts": null,
+        "salary": null
+    },
+    {
+        "name": "Системный администратор \/ Интегратор",
+        "city": "Ташкент",
+        "company": "NETCASE",
+        "created": "2025-07-03 09:22:29",
+        "contacts": null,
+        "salary": {
+            "from": 5000000,
+            "to": 8000000,
+            "currency": "UZS",
+            "gross": false
+        }
+    },
+    {
+        "name": "Программист 1C 8 и 7.7",
+        "city": "Москва",
+        "company": "ERP Consciousness (ООО Учесть Всё)",
+        "created": "2025-07-02 19:33:00",
+        "contacts": null,
+        "salary": {
+            "from": 170000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        }
+    }
+]
